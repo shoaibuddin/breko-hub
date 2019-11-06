@@ -132,7 +132,7 @@
   },
   "devDependencies": {
     "@babel/node": "^7.6.3",
-    "@hot-loader/react-dom": "^16.10.2",
+    "@hot-loader/react-dom": "^16.11.0",
     "@loadable/webpack-plugin": "^5.7.1",
     "axe-core": "^3.4.0",
     "babel-eslint": "^10.0.3",
