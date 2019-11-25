@@ -81,7 +81,7 @@
     "babel-plugin-provide-modules": "^1.0.3",
     "babel-plugin-ramda": "^2.0.0",
     "classnames": "^2.2.6",
-    "connected-react-router": "^6.5.2",
+    "connected-react-router": "^6.6.1",
     "css-modules-require-hook": "^4.2.3",
     "debug": "^4.1.1",
     "extract-hoc": "0.0.5",
