@@ -72,7 +72,7 @@
     "@babel/register": "^7.6.2",
     "@babel/runtime": "^7.6.3",
     "@loadable/babel-plugin": "^5.10.3",
-    "@loadable/component": "^5.10.3",
+    "@loadable/component": "^5.11.0",
     "@loadable/server": "^5.10.3",
     "autoprefixer": "^9.6.5",
     "babel-plugin-dynamic-import-node": "^2.3.0",
