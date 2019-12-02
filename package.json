@@ -71,7 +71,7 @@
     "@babel/preset-react": "^7.6.3",
     "@babel/register": "^7.6.2",
     "@babel/runtime": "^7.6.3",
-    "@loadable/babel-plugin": "^5.10.3",
+    "@loadable/babel-plugin": "^5.11.0",
     "@loadable/component": "^5.10.3",
     "@loadable/server": "^5.10.3",
     "autoprefixer": "^9.6.5",
